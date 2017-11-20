@@ -21,4 +21,4 @@ own server, feel free to download it, and you can ask for help at
 <a href="mailto:discoursedb-help@lists.andrew.cmu.edu">discoursedb-help@lists.andrew.cmu.edu</a>
 or by opening an issue on the appropriate github project.
 
-[discoursedb.github.io](DiscourseDB home)
+[DiscourseDB home](https://discoursedb.github.io)

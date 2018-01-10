@@ -13,7 +13,7 @@ We have one publically available dataset, consisting of online discussion of bug
 These datasets can be viewed in the [Data browser](https://erebor.lti.cs.cmu.edu/discoursedb/index.html).  Researchers can create their own annotations on this data using an integrated installation of the [Brat](http://brat.nlplab.org/) annotation tool, and apply machine learning techniques to generalize these labels using [LightSide](http://ankara.lti.cs.cmu.edu/side/).
 
 <h2>Next Steps</h2>
-This month (Nov 2017) we are working to allow integration of DiscouseDB data into [Learnsphere](http://learnsphere.org/) workflows, allowing researchers to apply its growing infrastructure of analyses to discourse data, and perform combined analyses with other data products under the Learnsphere umbrella.
+This month (Nov 2017) we are working to allow integration of DiscourseDB data into [Learnsphere](http://learnsphere.org/) workflows, allowing researchers to apply its growing infrastructure of analyses to discourse data, and perform combined analyses with other data products under the Learnsphere umbrella.
 
 <h2>Research and Development Team</h2>
 [Carolyn P. Rose](https://www.cs.cmu.edu/~cprose/), Carnegie Mellon University<br>
